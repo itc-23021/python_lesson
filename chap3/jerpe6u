@@ -1,0 +1,4 @@
+lesult= 12 % 2
+print(lesult)
+
+
