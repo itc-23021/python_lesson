@@ -1,2 +1,2 @@
-result = 100 > 10
+result = 100 < 10
 print(result)
